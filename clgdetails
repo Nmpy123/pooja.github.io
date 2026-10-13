@@ -1,0 +1,10 @@
+<html>
+<body><h1>Thiru A. Govindasamy Arts college</h1>
+<h2>Departments and courses</h2>
+<details><summary>Tamil</summary><p>B.A Tamil</p><p>M.A Tamil</p><p>ph.D Tamil</p></details>
+<details><summary>English</summary><p>B.A English</p><p>M.A English</p></details>
+<details><summary>Computer Science</summary><p>Bsc.Computer Science</p><p>Msc Computer Science</p></details>
+<details><summary>Mathematics</summary><p>Bsc.Mathematics</p><p>Msc.Mathematics</p></details>
+<details><summary>Botany</summary><p>Bsc.Botany</p><p>Msc.Botany</p></details>
+<details><summary>Zoology</summary><p>Bsc.Zoology</p><p>Msc.Zoology</p></details>
+<details><summary>Physics</summary><p>Bsc.Physics</p><p>Msc.Physics</p></details>
